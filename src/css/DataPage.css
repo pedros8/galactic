@@ -1,0 +1,20 @@
+#Title {
+    background-color: #003366;
+    color: #ffffff;
+    margin : 10px 450px 50px 450px;
+    border-radius: 20px;
+    box-shadow: -4px 8px 5px #001a33 ;
+    padding: 5px; 
+}
+
+#User-List { 
+    padding: 10px;
+    font-size: 20px;
+}
+
+h2{
+    color: #2d8659;
+    margin : 10px 300px 50px 300px;
+    padding-top: 150px;
+    font-size: 30px;
+}
