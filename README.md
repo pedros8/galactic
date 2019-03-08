@@ -1,5 +1,5 @@
 # `Galactic`
-   A sample project , Send login data to API and get data from API to show data.
+   A demo of using React.js and Semantic UI to call REST endpoints and display the response.
 
 ## `Installation and Setup Instructions`
      $ git clone https://github.com/pedros8/galactic.git
